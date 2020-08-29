@@ -18,7 +18,7 @@ export default class form extends Component {
   submitHandler = e => {
     e.preventDefault()
     console.log(this.state)
-    api.post('/posts', this.state).then(response => {
+    api.post('/', this.state).then(response => {
       console.log(response)
 
     })

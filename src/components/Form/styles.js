@@ -1,6 +1,8 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
+display:grid;
+position:relative;
 background-color: #fafafa;
 
 p {
@@ -14,8 +16,7 @@ form {
   background-color: #fafafa;
   position: absolute;
  
-  margin-top: 70px;
-  margin-left: 450px;
+  margin-top: 50px;
 
 }
 

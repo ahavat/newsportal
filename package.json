@@ -4,13 +4,12 @@
   "private": true,
   "dependencies": {
     "axios": "^0.19.2",
-    "axios-mock-adapter": "^1.18.1",
     "component": "^1.1.0",
-    "polished": "^3.6.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
+    "reactstrap": "^8.5.1",
     "styled": "^1.0.0",
     "styled-components": "^5.1.1"
   },

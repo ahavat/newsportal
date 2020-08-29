@@ -1,19 +1,13 @@
 import React, { Component } from 'react';
-
-
-import AddUser from '../src/components/Form/index'
-import GetUser from '../src/components/DataFetching/index'
-
-
+import GetUser from '../src/components/Dashboard'
 
 export default class App extends Component {
   render() {
     return (
       <>
         <div className="App">
-          <AddUser />
+          <GetUser />
         </div>
-        <div><GetUser /></div>
       </>
 
     );
