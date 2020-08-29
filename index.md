@@ -1,27 +1,15 @@
-## Desafio da Marlin
+## Desafio 
+
+Esta aplicação foi desenvolvida em React, o layout feito com CSS Grid.
+
+### Requisitos para visualizar o projeto
+
+1. [Preferência] Visual Estudio Code
+2. Gerenciador de pacotes Yarn ou NPM
+3. NodeJS e ExpressJS
+4. React
 
 
-### Requisitos para visualizar
-
-| [Preferência] Visual Estudio Code
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
